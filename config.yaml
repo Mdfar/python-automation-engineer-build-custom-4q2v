@@ -1,0 +1,3 @@
+api_keys: openai: "REDACTED" elevenlabs: "REDACTED" google_cloud_project: "staqlt-internal"
+
+video_settings: resolution: [1080, 1920] fps: 30 subtitle_font: "Arial-Bold" subtitle_color: "yellow"
