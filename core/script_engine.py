@@ -1,0 +1,3 @@
+import openai from vertexai.generative_models import GenerativeModel
+
+def generate_script(concept, model_name): # Logic to generate hook, body, and CTA # Returns a list of dictionaries with text and image prompts scenes = [ {"id": 1, "text": "The hook of the video...", "visual_prompt": "Cinematic shot of..."}, {"id": 2, "text": "The main educational point...", "visual_prompt": "Detailed view of..."} ] return scenes
